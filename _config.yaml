@@ -1,0 +1,22 @@
+title: Flamesidgs
+author: Aiuraa & Flamesidgs
+email: none@void.site
+description: > # this means to ignore newlines until "twitter_username:"
+  A simple blogging post about everything i want to share to the world
+  It may useful for some people but it's just personal pereference i think
+
+url: "https://flamesidgs.github.io"
+
+show_excerpts: false # set to true to show excerpts on the homepage
+
+header_pages:
+  - index.md
+  - about.md
+
+footer: 'follow me on <a href="https://github.com/flamesidgs/">GitHub</a>'
+
+style: github-dimmed
+
+# Build settings
+markdown: kramdown
+remote_theme: b2a3e8/jekyll-theme-console
